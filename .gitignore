@@ -1,2 +1,8 @@
 .DS_Store
 data/*
+.ipynb_checkpoints/
+*.csv
+*.tsv
+*.pickle
+100features_50minwords_5context
+
